@@ -4,7 +4,7 @@
 - Save In "aizer.txt" File
 - Open Source 
 
-- Download latest version from [NT (NUKERS TERRITORY)](https://discord.gg/ntop)
+- Download latest version from [INFO SAVER](https://discord.gg/ntop)
 - Extract all the content
 - Run aizer.py
   
